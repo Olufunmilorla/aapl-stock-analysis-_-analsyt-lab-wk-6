@@ -1,4 +1,4 @@
-# aapl-stock-analysis-_-analsyt-lab-wk-6
+# AAPL-stock-analysis-_-analsyt-lab-wk-6
 Python analysis of 5 years of Apple (AAPL) stock data: data cleaning, time-series analysis, feature engineering, and visualization using Pandas, NumPy, Matplotlib, and Seaborn.
 
 # Apple Inc. (AAPL) Historical Stock Market Analysis
